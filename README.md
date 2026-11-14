@@ -4,7 +4,8 @@ Detector **pasivo** de tecnologías web, inspirado en Wappalyzer, escrito en Pyt
 
 Pensado como herramienta de **reconocimiento y revisión de superficie de exposición** para Blue Team / SOC: saber qué corre un activo propio y si esa versión tiene vulnerabilidades conocidas.
 
-<!-- Añade aquí una captura de la interfaz: ![TechDetect](docs/captura.png) -->
+<img width="701" height="591" alt="docs-captura1" src="https://github.com/user-attachments/assets/493ad17e-4f89-464c-8d19-3ec5e26edd15" />
+
 
 ## Características
 
