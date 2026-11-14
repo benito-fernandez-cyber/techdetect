@@ -19,7 +19,7 @@ Pensado como herramienta de **reconocimiento y revisión de superficie de exposi
 ## Instalación
 
 ```bash
-git clone https://github.com/TU-USUARIO/techdetect.git
+git clone https://github.com/benito-fernandez-cyber/techdetect.git
 cd techdetect
 pip install -r requirements.txt
 ```
